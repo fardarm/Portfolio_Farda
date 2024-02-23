@@ -13,7 +13,7 @@ I am always looking for opportunities and resources to expand my knowledge and d
    tools, and finally design dynamic dashboards in Tableau for comprehensive analysis and strategic decision-making.
    | [Tableau](https://public.tableau.com/app/profile/farda.ramdhan/viz/KimiaFarma_17080063212300/Dashboard1) |
 
-2. Analysis of Smartphone Online Sales from E-Commerce Platform
+3. Analysis of Smartphone Online Sales from E-Commerce Platform
    Smartphone sales data from e-commerce platforms for 2020-2022 was analyzed in Excel. This involved understanding business needs, exploring data, cleaning, summarizing
    stats, and creating insights. Visualization was done via a Google Data Studio dashboard.
-| [PPT Deck](https://www.linkedin.com/in/fardaramdhan/details/projects/1208586327/multiple-media-viewer?profileId=ACoAACx9qiAB6WX5ZSC4b381g70NrKL1jgtZCNU&treasuryMediaId=1708458087093&type=DOCUMENT&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3BU5u%2FrQzBR%2FagN8mHw%2FRxWQ%3D%3D) | [Google Data Studio](https://lookerstudio.google.com/reporting/769cbc73-3253-4d2e-8d84-22e5b5501205)
+   | [PowerPoint](https://www.linkedin.com/in/fardaramdhan/details/projects/1208586327/multiple-media-viewerprofileId=ACoAACx9qiAB6WX5ZSC4b381g70NrKL1jgtZCNU&treasuryMediaId=1708458087093&type=DOCUMENT&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3BU5u%2FrQzBR%2FagN8mHw%2FRxWQ%3D%3D) | [Google Data Studio](https://lookerstudio.google.com/reporting/769cbc73-3253-4d2e-8d84-22e5b5501205)
